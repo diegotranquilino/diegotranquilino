@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diegotranquilino
 - 👀 I’m interested in business
-- 🌱 I’m currently learning ... magento dev
+- 🌱 I’m currently learning REST API, Python, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
