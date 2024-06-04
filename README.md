@@ -5,7 +5,7 @@
 📗 I'm always eager to **learn more** and am open to **new technologies** and parnerships.
 ❤️ If you appreciate my open-source work, consider supporting me on **GitHub Sponsors**!
 
-You can find me at:<a href="[https://www.example.com](https://www.linkedin.com/in/diegotranquilino/)" target="_blank">Linkedin</a>
+You can find me at: <a href="[https://www.example.com](https://www.linkedin.com/in/diegotranquilino/)" target="_blank">Linkedin</a>
 
 
 ## My Journey
