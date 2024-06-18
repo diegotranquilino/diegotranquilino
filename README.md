@@ -35,8 +35,7 @@ Let’s connect and build something amazing together!
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=devtechnique.com@gmail.com" alt="Gmail"/></a>
+  [![Email](https://img.shields.io/badge/Email-me-brightgreen)](mailto:devtechnique.com@gmail.com)
   <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/diegotranquilino/)" alt="LinkedIn"/></a>
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/diegotranquilino/))
 </p>
