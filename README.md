@@ -34,8 +34,6 @@ Let’s connect and build something amazing together!
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
-<p align="left">
   [![Email](https://img.shields.io/badge/Email-me-brightgreen)](mailto:devtechnique.com@gmail.com)
   <a href="#" title="LinkedIn">
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/diegotranquilino/))
-</p>
